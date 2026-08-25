@@ -5,6 +5,12 @@
       "name": "G.O.M.D",
       "file": "audio/G.O.M.D.mp3",
       "hash": "1"
+    },
+    {
+      "id": "King's_Dead_(with_Kendrick_Lamar,_Future_&_James_Blake)",
+      "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+      "file": "audio/King's_Dead_(with_Kendrick_Lamar,_Future_&_James_Blake).mp3",
+      "hash": "2"
     }
   ]
 }
