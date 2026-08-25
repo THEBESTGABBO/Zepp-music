@@ -1,0 +1,6 @@
+{
+  "songs": [
+    { "id": "song1", "name": "Titolo Canzone 1", "file": "audio/song1.mp3", "hash": "a1" },
+    { "id": "song2", "name": "Titolo Canzone 2", "file": "audio/song2.mp3", "hash": "b2" }
+  ]
+}
