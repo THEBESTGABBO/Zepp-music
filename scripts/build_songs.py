@@ -23,7 +23,7 @@ OUT_DIR = Path("audio")
 SONGS_JSON = Path("songs.json")
 
 # Parametri di compressione ffmpeg
-AUDIO_BITRATE = "96k"
+AUDIO_BITRATE = "32k"
 AUDIO_CHANNELS = "1"  # mono
 AUDIO_SAMPLE_RATE = "32000"
 
