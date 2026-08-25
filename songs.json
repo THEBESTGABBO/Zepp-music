@@ -11,6 +11,30 @@
       "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
       "file": "audio/King's_Dead_(with_Kendrick_Lamar,_Future_&_James_Blake).mp3",
       "hash": "2"
+    },
+    {
+      "id": "On_Sight",
+      "name": "On Sight",
+      "file": "audio/On_Sight.mp3",
+      "hash": "3"
+    },
+    {
+      "id": "She_Will",
+      "name": "She Will",
+      "file": "audio/She_Will.mp3",
+      "hash": "4"
+    },
+    {
+      "id": "Shitsville",
+      "name": "Shitsville",
+      "file": "audio/Shitsville.mp3",
+      "hash": "5"
+    },
+    {
+      "id": "WRK",
+      "name": "WRK",
+      "file": "audio/WRK.mp3",
+      "hash": "6"
     }
   ]
 }
